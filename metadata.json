@@ -1,0 +1,6 @@
+{
+  "name": "كل خدمات اليمن",
+  "description": "منصة متكاملة تربط المستخدمين بمقدمي الخدمات وأصحاب المهن في اليمن مع نظام إدارة وبوابة سرية ومساعد ذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
